@@ -1,0 +1,22 @@
+* Administrateur :
+	l'admin a tous les droits d'acces au site web
+		-Gerer administrateur (ajouter/Modifier/Supprimer)
+		-Accepter ou Refuser formateur
+		-Accepter ou Refuser formation
+		-Creation d'une salle de reunion meet
+		-Repondre au messagees
+
+*Formateur :
+	Enseignant ou formateur Certifiée
+		-S'inscirire
+		-Deposer une publication
+		-Commenter une publication
+		-Envoyer message
+		-Demande une formation
+*Condidat :
+	Etudiant ou personne cherche une formation
+		-S'inscirire
+		-Deposer une publication
+		-Commenter une publication
+		-Envoyer message
+		-Partaciper a une formation 
